@@ -22,9 +22,9 @@ Interactive computer game using Processing
 
 Interactive computer game using Processing
 
-![EtchASketch]([https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/blob/gh-pages/Images/space.png?raw=true](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/blob/gh-pages/Images/etch.png?raw=true)) 
+![EtchASketch](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/blob/gh-pages/Images/etch.png?raw=true) 
 
-[Source Code](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/tree/gh-pages/src/spacegame)
+[Source Code]()
 
 
 ## Programming Semester 2 Projects:
