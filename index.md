@@ -12,7 +12,7 @@ OOP graphical calculator using Processing.
 
 ### Space Game
 
-OOP graphical calculator using Processing.
+Interactive computer game using Processing
 
 ![SpaceGame](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/blob/gh-pages/Images/space.png?raw=true) 
 
