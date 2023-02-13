@@ -20,7 +20,7 @@ Interactive computer game using Processing
 
 ### Etch A Sketch
 
-Interactive computer game using Processing
+A user-defined drawing app using pixels made from Processing
 
 ![EtchASketch](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/blob/gh-pages/Images/etch.png?raw=true) 
 
