@@ -6,7 +6,7 @@
 
 OOP graphical calculator using Processing.
 
-![Calculator]()
+![Calculator]() 
 
 [Source Code]()
 
