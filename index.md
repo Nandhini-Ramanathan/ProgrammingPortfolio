@@ -16,6 +16,6 @@ OOP graphical calculator using Processing.
 
 ![SpaceGame](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/blob/gh-pages/Images/space.png?raw=true) 
 
-[Source Code]([https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/tree/gh-pages/src/calc](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/tree/gh-pages/src/spacegame))
+[Source Code](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/tree/gh-pages/src/calc](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/tree/gh-pages/src/spacegame)
 
 ## Programming Semester 2 Projects:
