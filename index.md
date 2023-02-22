@@ -28,3 +28,11 @@ A user-defined drawing app using pixels made from Processing
 
 
 ## Programming Semester 2 Projects:
+
+### World of Strings
+
+A user interactive application using strings to convert words into Pig Latin using Replit in Python.
+
+![WorlOfStrings](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/blob/gh-pages/Images/WorlOfStrings.png?raw=true) 
+
+[Source Code](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/tree/gh-pages/src/WorldOfStrings)
