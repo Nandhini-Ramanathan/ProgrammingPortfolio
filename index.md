@@ -2,6 +2,8 @@
 
 ## Contact Info: nandhini2005@outlook.com
 
+## Certification Earned: Skill Certification Test Number 820
+
 ## Programming Semester 1 Projects:
 
 ### Calculator
