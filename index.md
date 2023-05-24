@@ -93,7 +93,9 @@ A user interactive application using strings to convert words into Pig Latin usi
 
 A user interactive group project survival-based game where you are a ninja that dodges rocks done in Python in Processing.
 
-![kitty](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/blob/gh-pages/Images/WorlOfStrings.png?raw=true) 
+Start Screen:
+
+![kitty](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/blob/gh-pages/Images/start.png?raw=true) 
 
 [Source Code](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/tree/gh-pages/src/Main)
 
