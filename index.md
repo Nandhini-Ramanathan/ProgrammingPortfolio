@@ -54,6 +54,22 @@ User interactive application that converts Miles to Kilometers.
 
 [Source Code](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/tree/gh-pages/src/CoversionApp)
 
+### Grade Converter
+
+User interactive application that converts GPA to a letter grade.
+
+![grade](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/blob/gh-pages/Images/grade.png?raw=true)
+
+[Source Code](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/tree/gh-pages/src/Grades)
+
+### Screen Saver 
+
+An application that randomly generates various lengths and thickness of lines that are connected.
+
+![screen](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/blob/gh-pages/Images/screen.png?raw=true)
+
+[Source Code](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/tree/gh-pages/src/Screensaver)
+
 
 ## Programming Semester 2 Projects:
 
