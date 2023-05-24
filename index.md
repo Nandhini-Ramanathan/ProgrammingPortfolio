@@ -32,7 +32,7 @@ A user-defined drawing app using pixels made from Processing
 
 ### Zoog
 
-A 
+A user interactive character named Zoog that moves around with the mouse and fills the screen.
 
 ![Zoog](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/blob/gh-pages/Images/zoog.png?raw=true) 
 
