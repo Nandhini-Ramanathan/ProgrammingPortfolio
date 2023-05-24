@@ -1,5 +1,7 @@
 # Welcome to Nandhini's Programming Portfolio
 
+## Contact Info: nandhini2005@outlook.com
+
 ## Programming Semester 1 Projects:
 
 ### Calculator
