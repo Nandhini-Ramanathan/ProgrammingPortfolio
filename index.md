@@ -40,7 +40,7 @@ A user interactive character named Zoog that moves around with the mouse and fil
 
 ### Car Tester
 
-A user interactive character named Zoog that moves around with the mouse and fills the screen.
+Moving cars on either direction with varrying speeds.
 
 ![car](https://github.com/Nandhini-Ramanathan/ProgrammingPortfolio/blob/gh-pages/Images/car.png?raw=true)
 
